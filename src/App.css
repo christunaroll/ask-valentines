@@ -1,0 +1,43 @@
+.valentines-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #ffe2e6;
+}
+
+.benjiSad {
+  height: 30vh;
+  padding: 3vh;
+}
+
+.benjiHappy {
+  height: 50vh;
+}
+
+.yayText {
+  font-size: 10vh;
+}
+
+.yesBtn {
+  background-color: green;
+  border-radius: 2vh;
+  border: none;
+  padding: 3vh;
+  font-size: 5vh;
+  margin: 1vh 2vh;
+}
+
+.noBtn {
+  background-color: red;
+  border-radius: 2vh;
+  border: none;
+  padding: 3vh;
+  font-size: 2.5vh;
+  margin: 1vh 2vh;
+}
+
+.questionText {
+  font-size: 5vh;
+}
